@@ -1,4 +1,4 @@
-# dknapp17.github.io
+# David Knapp
 Portfolio for David Knapp's Data Science Projects
 
 ### Data Scientist
