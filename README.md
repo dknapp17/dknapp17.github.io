@@ -12,4 +12,4 @@ Technical Skills: Audio Signal Processing, Computer Vision, Convolutional Neural
 
 ### Work Experience
 [1]: <https://instrumentclassify.streamlit.app/>
-[2]: <(https://github.com/dknapp17/audio_ml>
+[2]: <https://github.com/dknapp17/audio_ml>
