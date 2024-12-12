@@ -8,7 +8,7 @@ Welcome to David Knapp's Data Science Portfolio! This portfolio is designed to b
 
 [Learn more][2]
 
-Technical Skills: Audio Signal Processing, Computer Vision, Convolutional Neural Network, PyTorch, Streamlit, Docker
+Technical Skills: Machine Learning 🤖, Audio Signal Processing 🎤, Computer Vision 💻👁️, Convolutional Neural Network 🔀, PyTorch 🔦, Streamlit 📱, Docker 📦
 
 ### Work Experience
 [1]: <https://instrumentclassify.streamlit.app/>
